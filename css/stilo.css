@@ -1,5 +1,6 @@
 body, html {    
     font-family: Arial, Tahoma, sans-serif;
+    text-align: center;
 }
 
 .logo{
@@ -34,5 +35,6 @@ margin-bottom: 5px;
     font-size: 18px;
     color: #FFF;
     float: left;   
-    text-align: center;   
+    text-align: center;
+    margin-bottom: 90px;
 }
