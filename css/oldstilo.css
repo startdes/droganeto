@@ -53,12 +53,11 @@ html {
 }
 
 .propaganda {
-    width: 100%;
-    background-color: #ffffff;
-    line-height: 80px;
-    font-size: 18px;
-    color: #030303;
-    float: left;
-    text-align: center;
+    padding-top: 280px;
+}
 
+.linkpropa{
+    text-decoration: none;
+    color: #000000;
+    font-size: 16px;
 }
